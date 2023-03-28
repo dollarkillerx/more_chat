@@ -1,6 +1,8 @@
 # more_chat
 more_chat.   ChatGPT 聊天机器解除限制
 
+online: https://chatgpt.dollarkiller.com
+
 ![](./readme/v1.png)
 
 ![](./readme/v2.png)
